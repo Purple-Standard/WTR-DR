@@ -59,6 +59,12 @@ Never add color values directly to `components.css` or any HTML file.
 
 ---
 
+## Wireframe Pages
+
+- [Home](https://purple-standard.github.io/WTR-DR/)
+
+---
+
 ## Ownership
 
 Copyright © 2026 The Purple Standard. All rights reserved.
